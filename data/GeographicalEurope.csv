@@ -1,0 +1,48 @@
+﻿Country;Capitol;Area in km2;Inhabitants;Inhabitants per km2;BIP (bn USD, 2016);BIP per capita (bn USD, 2016);Region
+Albania;Tirana;28.748;2.930.187;106,9;12,1;11,84;Southeastern Europe
+Andorra;Andorra la Vella;468;76,965;163,8;k.A;k.A;Southern Europe
+Austria;Vienna;83.879;8.823.054;106;386,8;48,005;Middle Europe
+Belarus;Minsk;207.595;9.468.338;46,7;48,8;18;Eastern Europe
+Belgium;Bruessel;32.545;11.429.336;377,5;467;45,047;Western Europe
+Bosnia and Herzegowina;Sarajewo;51.129;3.507.017;68,8;16,6;10,958;Southeastern Europe
+Bulgaria;Sofia;110.994;7.084.571;65,3;52,4;20,327;Southeastern Europe
+Croatia;Zagreb;56.542;4.189.353;74,9;50,4;22,795;Middle Europe
+Czech Republic;Prague;78.866;10.618.303;137,5;193;33,232;Middle Europe
+Denmark;Copenhagen;43.098;5.733.551;135,1;306,7;47,985;Northern Europe
+Estonia;Talinn;45.227;1.309.632;30,9;23,1;29,313;Middle Europe
+Finland;Helsinki;338.144;5.523.231;18,2;236,8;42,165;Northern Europe
+France;Paris;543.965;64.979.548;118,7;2.463,20;42,314;Western Europe
+Germany;Berlin;357.121;82.114.224;235,6;3.466,60;48,111;Middle Europe
+Greece;Athens;131.957;11.159.773;86,6;194,2;26,669;Southeastern Europe
+Hungary;Budapest;93.03;9.721.559;107,4;125,7;27,482;Middle Europe
+Iceland;Reykjavik;103.000;335.025;3,3;20;49,136;Northern Europe
+Ireland;Dublin;70.273;4.761.657;69,1;293,6;69,231;Western Europe
+Italy;Rome;301.336;59.359.900;201,8;1.850,70;36,833;Southern Europe
+Kazakhstan;Nursultan;146.700;480;3,3;133,8;25,145;Southeastern Europe
+Kosovo;Pristina;10.887;1.907.592;151;6,7;k.A;Southeastern Europe
+Latvia;Riga;64.589;1.949.670;31,3;27,7;25,71;Middle Europe
+Liechtenstein;Vaduz;160;37.922;237;k.A;k.A;Middle Europe
+Lithuania;Vilnius;65.301;2.890.297;46,1;42,7;29,972;Middle Europe
+Luxembourg;Luxembourg;2,586;583.455;225,3;59,5;104,003;Western Europe
+Malta;Valletta;316;430.835;1346,4;11;39,834;Southern Europe
+Moldova;Chisinau;33.800;4.051.212;123,3;6,8;5,328;Southeastern Europe
+Monaco;Monaco;2;38.695;25969,8;k.A;k.A;Southeastern Europe
+Montenegro;Podgorica;13.812;628.96;46,8;4,1;16,643;Southeastern Europe
+Netherlands;Amsterdam;41.526;17.035.938;505,2;771,1;51,049;Western Europe
+Northern Macedonia;Skopje;25.713;2.083.160;82,6;10,9;14,597;Southeastern Europe
+Norway;Oslo;323.759;5.305.383;14,5;370,4;69,249;Northern Europe
+Poland;Warsaw;312.685;38.170.712;124,6;467,6;27,764;Middle Europe
+Portugal ;Lisbona;92.345;10.329.506;112,8;204,9;28,933;Southern Europe
+Romania;Bukarest;238.391;19.679.306;85,5;187;22,348;Southeastern Europe
+Russia;Moscow;3.955.800;104.000.000;26,3;1.280,70;26,49;Eastern Euope
+San Marino;San Marino;61;33.400;556,7;1,6;59,058;Southern Europe
+Serbia;Berlgrad;88.361;7.058.322;91,1;37,7;14,493;Southeastern Europe
+Slovakia;Bratislava;49.034;5.447.662;113,3;95,8;31,339;Middle Europe
+Slovenia;Ljubljana;20.253;2.079.976;103,3;44;32,085;Middle Europe
+Spain;Madrid;504.645;46.354.321;92,9;1.232,60;36,416;Southern Europe
+Sweden;Stockholm;449.964;9.910.701;24,2;511,4;49,836;Northern Europe
+Switzerland;Bern;41.285;8.476.005;214,5;659,9;59,561;Middle Europe
+Turkey;Ankara;23.384;9.799.745;419,1;857,4;24,912;Southeastern Europe
+Ukraine;Kiew;603.700;44.222.947;76,3;93,3;8,305;Eastern Euope
+United Kingdom;London;242.910;66.181.585;273,6;2.629,10;42,481;Western Europe
+Vatican;Vatican;0.44;792;1800;k.A;k.A;Southern Europe
