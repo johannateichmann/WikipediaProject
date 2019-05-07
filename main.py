@@ -3,7 +3,6 @@ import sys
 import pandas as pd   #creating shortcut to panda module via nametag pd
 from qtpy import QtWidgets   #using the qt-creator
 from ui.mainwindow import Ui_MainWindow
-import csv #module for comma seperated values(excel files)
 
 app = QtWidgets.QApplication(sys.argv)
 
