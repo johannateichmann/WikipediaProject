@@ -21,14 +21,14 @@
     <item row="1" column="0">
      <widget class="QLabel" name="ausgabe_label">
       <property name="text">
-       <string>TextLabel</string>
+       <string/>
       </property>
      </widget>
     </item>
     <item row="1" column="1">
      <widget class="QLabel" name="label_2">
       <property name="text">
-       <string>TextLabel</string>
+       <string/>
       </property>
      </widget>
     </item>

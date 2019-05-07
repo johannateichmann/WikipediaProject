@@ -21,9 +21,11 @@ class Ui_MainWindow(object):
         self.gridLayout.setSpacing(6)
         self.gridLayout.setObjectName("gridLayout")
         self.ausgabe_label = QtWidgets.QLabel(self.centralWidget)
+        self.ausgabe_label.setText("")
         self.ausgabe_label.setObjectName("ausgabe_label")
         self.gridLayout.addWidget(self.ausgabe_label, 1, 0, 1, 1)
         self.label_2 = QtWidgets.QLabel(self.centralWidget)
+        self.label_2.setText("")
         self.label_2.setObjectName("label_2")
         self.gridLayout.addWidget(self.label_2, 1, 1, 1, 1)
         self.textBrowser = QtWidgets.QTextBrowser(self.centralWidget)
@@ -87,8 +89,6 @@ class Ui_MainWindow(object):
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
         MainWindow.setWindowTitle(_translate("MainWindow", "Wikipedia"))
-        self.ausgabe_label.setText(_translate("MainWindow", "TextLabel"))
-        self.label_2.setText(_translate("MainWindow", "TextLabel"))
         self.textBrowser.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
