@@ -105,7 +105,7 @@ class MainWindow(QtWidgets.QMainWindow):
 
         self.ui.eigenschaft_combo.addItem("All Data")
         #routine for filling combo boxes with choices for data
-        with open("data/GeographicalEurope.csv", "r", newline="") as file: #"data/dateneuropa.txt"
+        with open("data/GeographicalEurope.csv", "r", newline="") as file:
             first_line = file.readline().strip().split(";")
             for choice in first_line:
                 if choice == "ï»¿Country": #we need to skip the first Item, as its not useful
